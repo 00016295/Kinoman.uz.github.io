@@ -10,4 +10,4 @@ Recommendations Engine: Implement an intelligent recommendation system based on 
 
 Contributor: Aliev Alisher
 
-GitHub link: 
+GitHub link: https://00016295.github.io/Kinoman.uz.github.io/login.html
